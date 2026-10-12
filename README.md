@@ -25,10 +25,6 @@ The chatbot is intended to make patient education information easier to access w
 
 ## ✨ Key Features
 
-### 🏥 Hospital Information
-
-The application can present hospital information configured in the project, such as the hospital name, department details, location, OPD hours, and contact information. Confirm that these details are current and approved before deployment.
-
 ### 🤖 Knowledge-Base Question Answering
 
 The chatbot uses a knowledge base to support answers about radiation oncology. It is designed to use available patient-education content and avoid guessing when relevant information is not available.
