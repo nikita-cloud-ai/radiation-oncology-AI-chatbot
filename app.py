@@ -27,7 +27,7 @@ logger = logging.getLogger("radiation_oncology_chatbot")
 st.set_page_config(
     page_title="Radiation Oncology AI Assistant",
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="auto",
 )
 
 
